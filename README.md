@@ -129,20 +129,20 @@ Goodbye! Have a great day!
 
 ##### Language:
 
-**C++** 
+- C++ 
 
 ##### Concepts:
 
-**Templates**
+- Templates
 
-**Inheritance**
+- Inheritance
 
-**Polymorphism**
+- Polymorphism
 
-**Encapsulation**
+- Encapsulation
 
-**Composition**
+- Composition
 
-**File Handling**
+- File Handling
 
-**String manipulation**
+- String manipulation
